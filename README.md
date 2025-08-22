@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Milan Raut
 
-🎓 I recently finished studying **Bachelor of Engineering in Information Technology (BE-IT)**.  
+🎓 I recently finished studying **Bachelor of Engineering in Information Technology (BEIT)**.  
 💻 Passionate about software development, problem solving, and exploring new technologies.  
 
 ---
@@ -54,9 +54,12 @@
 
 ## 📫 Connect with Me
 
-- GitHub: [github.com/MeeLn](https://github.com/MilanRaut)
-- LinkedIn: *(add your link here)*
-- Email: *(add your email here)*
+- GitHub: [github.com/MeeLn](https://github.com/MeeLn)
+- Facebook: *(https://www.facebook.com/mi.lana.521512)*
+- Instagram: *(https://www.instagram.com/meeln8/)*
+- Reddit: *(https://www.reddit.com/user/Old_Signature_351/)*
+- Twitter: *(https://x.com/MeeLn84)*
+- Email: *(rttmilan76@gmail.com)*
 
 ---
-⭐️ From [Milan Raut](https://github.com/MilanRaut)
+⭐️ From [Milan Raut](https://github.com/MeeLn)
