@@ -45,17 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mu.vercel.app/api?username=meeln&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats-mu.vercel.app/api/top-langs/?username=meeln&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=meeln&theme=tokyonight" height="160"/>
-</p>
-
-### 🔥 Backup Stats (Always Loads)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meeln&theme=tokyonight" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeeLn&theme=tokyonight" height="200"/>
 </p>
 
 ---
