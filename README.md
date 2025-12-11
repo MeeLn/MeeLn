@@ -45,12 +45,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeeLn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeeLn&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-mu.vercel.app/api?username=meeln&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-mu.vercel.app/api/top-langs/?username=meeln&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeeLn&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=meeln&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
