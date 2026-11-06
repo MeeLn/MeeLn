@@ -1,64 +1,45 @@
-# 👋 Hi, I'm Milan Raut
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/title-dark.svg" /><img src="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/title-light.svg" alt="👋 Hi, I&#x27;m Milan Raut" /></picture>
 
 🎓 BE in Information Technology  
 💻 Passionate about software development, problem-solving & exploring new tech.
 
----
-
-## 🛠️ Tech Stack
-
-### **Frameworks & Libraries**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-007ACC?style=for-the-badge&logo=tensorflow)
-
-### **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![XML](https://img.shields.io/badge/XML-8B0000?style=for-the-badge&logo=xml)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-### **Tools & IDEs**
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![C++ Builder](https://img.shields.io/badge/C++_Builder-B22222?style=for-the-badge&logo=cplusplus)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeeLn&theme=tokyonight" height="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=B388FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Mobile+Developer;Next.js+%C2%B7+Django+%C2%B7+Flutter" alt="Full-Stack Developer · Mobile Developer · Next.js · Django · Flutter" />
 </p>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/tech-stack-dark.svg" /><img src="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/tech-stack-light.svg" alt="🛠️ Tech Stack" /></picture>
 
-## 📫 Connect with Me
+**Languages**
+<p><img src="assets/stack/c.svg" alt="C" title="C" /><img src="assets/stack/cpp.svg" alt="C++" title="C++" /><img src="assets/stack/java.svg" alt="Java" title="Java" /><img src="assets/stack/python.svg" alt="Python" title="Python" /><img src="assets/stack/php.svg" alt="PHP" title="PHP" /><img src="assets/stack/dart.svg" alt="Dart" title="Dart" /><img src="assets/stack/kotlin.svg" alt="Kotlin" title="Kotlin" /><img src="assets/stack/javascript.svg" alt="JavaScript" title="JavaScript" /><img src="assets/stack/typescript.svg" alt="TypeScript" title="TypeScript" /><img src="assets/stack/html5.svg" alt="HTML5" title="HTML5" /><img src="assets/stack/css3.svg" alt="CSS3" title="CSS3" /><img src="assets/stack/xml.svg" alt="XML" title="XML" /></p>
 
-- **GitHub:** https://github.com/MeeLn  
-- **Facebook:** https://www.facebook.com/mi.lana.521512  
-- **Instagram:** https://www.instagram.com/meeln8/  
-- **Reddit:** https://www.reddit.com/user/Old_Signature_351  
-- **Twitter:** https://x.com/MeeLn84  
-- **Email:** rttmilan76@gmail.com
+**Web & Backend**
+<p><img src="assets/stack/nextjs.svg" alt="Next.js" title="Next.js" /><img src="assets/stack/react.svg" alt="React" title="React" /><img src="assets/stack/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" /><img src="assets/stack/nodejs.svg" alt="Node.js" title="Node.js" /><img src="assets/stack/django.svg" alt="Django" title="Django" /><img src="assets/stack/dotnet.svg" alt=".NET" title=".NET" /><img src="assets/stack/rest.svg" alt="REST APIs" title="REST APIs" /></p>
 
----
+**Mobile**
+<p><img src="assets/stack/flutter.svg" alt="Flutter" title="Flutter" /><img src="assets/stack/android.svg" alt="Android" title="Android" /><img src="assets/stack/riverpod.svg" alt="Riverpod" title="Riverpod" /><img src="assets/stack/camerax.svg" alt="CameraX" title="CameraX" /><img src="assets/stack/tflite.svg" alt="TensorFlow Lite" title="TensorFlow Lite" /><img src="assets/stack/mlkit.svg" alt="ML Kit" title="ML Kit" /><img src="assets/stack/channels.svg" alt="Platform Channels" title="Platform Channels" /></p>
+
+**Data & AI**
+<p><img src="assets/stack/postgres.svg" alt="PostgreSQL" title="PostgreSQL" /><img src="assets/stack/mysql.svg" alt="MySQL" title="MySQL" /><img src="assets/stack/sqlite.svg" alt="SQLite" title="SQLite" /><img src="assets/stack/hive.svg" alt="Hive" title="Hive" /><img src="assets/stack/tensorflow.svg" alt="TensorFlow" title="TensorFlow" /><img src="assets/stack/pytorch.svg" alt="PyTorch" title="PyTorch" /><img src="assets/stack/facenet.svg" alt="FaceNet / MTCNN" title="FaceNet / MTCNN" /><img src="assets/stack/jupyter.svg" alt="Jupyter" title="Jupyter" /></p>
+
+**Tools**
+<p><img src="assets/stack/git.svg" alt="Git" title="Git" /><img src="assets/stack/github.svg" alt="GitHub" title="GitHub" /><img src="assets/stack/vscode.svg" alt="VS Code" title="VS Code" /><img src="assets/stack/androidstudio.svg" alt="Android Studio" title="Android Studio" /><img src="assets/stack/idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" /><img src="assets/stack/visualstudio.svg" alt="Visual Studio" title="Visual Studio" /><img src="assets/stack/linux.svg" alt="Linux" title="Linux" /><img src="assets/stack/kali.svg" alt="Kali Linux" title="Kali Linux" /><img src="assets/stack/sdl2.svg" alt="SDL2" title="SDL2" /><img src="assets/stack/cppbuilder.svg" alt="C++ Builder" title="C++ Builder" /></p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/github-stats-dark.svg" /><img src="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/github-stats-light.svg" alt="📊 GitHub Stats" /></picture>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeeLn&theme=tokyonight" width="98%" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeeLn&theme=tokyonight" width="48.5%" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeeLn&theme=tokyonight" width="48.5%" alt="Top languages by commit" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeeLn&theme=tokyonight" width="48.5%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MeeLn&theme=tokyonight&utcOffset=5.75" width="48.5%" alt="Commits by hour, Nepal time (UTC+5:45)" />
+</p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/connect-dark.svg" /><img src="https://github.com/MeeLn/MeeLn/raw/main/assets/heading/connect-light.svg" alt="📫 Connect with Me" /></picture>
+
+<p><a href="https://github.com/MeeLn" target="_blank" rel="noopener noreferrer"><img src="assets/stack/s-github.svg" alt="GitHub" title="GitHub" /></a><a href="https://milanraut.com.np" target="_blank" rel="noopener noreferrer"><img src="assets/stack/s-portfolio.svg" alt="Portfolio" title="Portfolio" /></a><a href="https://x.com/MeeLn84" target="_blank" rel="noopener noreferrer"><img src="assets/stack/s-x.svg" alt="X" title="X" /></a><a href="https://www.instagram.com/meeln8/" target="_blank" rel="noopener noreferrer"><img src="assets/stack/s-instagram.svg" alt="Instagram" title="Instagram" /></a><a href="https://www.facebook.com/mi.lana.521512" target="_blank" rel="noopener noreferrer"><img src="assets/stack/s-facebook.svg" alt="Facebook" title="Facebook" /></a><a href="https://www.reddit.com/user/Old_Signature_351" target="_blank" rel="noopener noreferrer"><img src="assets/stack/s-reddit.svg" alt="Reddit" title="Reddit" /></a><a href="mailto:rttmilan76@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/stack/s-email.svg" alt="Email" title="Email" /></a></p>
 
 ⭐ From [Milan Raut](https://github.com/MeeLn)
